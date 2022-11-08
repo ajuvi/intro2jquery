@@ -2,4 +2,4 @@
 
 ## run app
 
-http://raw.githack.com/ajuvi/intro2jquery/main/index.html
+http://raw.githack.com/ajuvi/intro2jquery/main/quadrat.html
